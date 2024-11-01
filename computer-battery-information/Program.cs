@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Management;
 
 namespace computer_battery_information
 {
